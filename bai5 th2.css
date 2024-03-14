@@ -1,0 +1,48 @@
+.border
+{
+    text-align: center;
+    width:450px;
+    height:230px;
+    background-color:black;
+    border: 1px none;
+    margin: 0 auto;
+    padding: 20px;
+
+}
+.h2
+{
+    text-align: center;
+    color: white;
+    text-align:left ;
+
+}
+#border1
+{
+    float:left;
+   flex: :1;
+   height:40px;
+   border:none;
+   outline: none;
+   font-size:18px;
+   padding-left:10px;
+   background-color:rgb(37, 36, 36);
+}
+#border2
+{
+    float:left;
+    flex: :1;
+   height:40px;
+   border:none;
+   outline: none;
+   font-size:18px;
+   padding-left:10px;
+   background-color:rgb(37, 36, 36);
+}
+.button
+{
+    text-align: right;
+    background: red;
+    width:90px;
+    height:105px;
+    padding-left:10px;
+}

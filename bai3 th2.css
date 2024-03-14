@@ -1,0 +1,65 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+
+
+h1 {
+  color: #520052;
+  margin: 0;
+  padding: 0;
+}
+
+h3 {
+    font-family: Arial, sans-serif;
+  margin: 1;
+  padding: 1;
+  color: #A300A3;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+section {
+  padding: 20px;
+}
+
+.thong-tin {
+  background-color: #f7f7f7;
+}
+
+.thong-tin ul {
+  list-style: none;
+  padding: 0;
+}
+
+.thong-tin ul li {
+  margin-bottom: 10px;
+}
+
+
+
+.lien-he form {
+  display: flex;
+  flex-direction: column;
+}
+
+.lien-he form label {
+  margin-bottom: 5px;
+}
+
+.lien-he form input,
+.lien-he form textarea {
+  padding: 5px;
+  margin-bottom: 15px;
+}
+.submit
+{
+  background-color: rgb(21, 127, 92);
+  
+}

@@ -1,0 +1,57 @@
+.h1
+{
+    text-align: center;
+    color: gray;
+}
+.p1
+{
+    justify-content: center;
+    text-align: center;
+    color: black;
+}
+.border
+{
+    float:center;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlCiioq6SiNlb1Jl1BDOsoIFLqZXrqhs_GWo4gUo12rnt5RCB97ibot9lCHCqezGvN_OE&usqp=CAU);
+    width:400px;
+    height:450px;
+    color: white;
+    border: 1px none;
+    outline: 0;
+    margin: 0 auto;
+    padding: 20px;
+}
+#border1
+{
+    justify-content: center;
+    float:center;
+    width:300px;
+    height:30px;
+    color:black;
+    outline:0;
+    margin-top:18px;
+    margin-bottom: 10px;
+}
+#border2
+{
+    justify-content: center;
+    float:center;
+    width:300px;
+    height:30px;
+    color:rgb(8, 8, 8);
+    outline:0;
+    margin-top:18px;
+    margin-bottom: 10px;
+}  
+#border3
+{
+    justify-content: center;
+    text-align: center;
+    float:center;
+    width:300px;
+    height:30px;
+    color:white;
+    outline:0;
+    margin-top:18px;
+    margin-bottom: 10px;
+}
